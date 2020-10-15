@@ -1,3 +1,3 @@
 # github-actions-playground
 
-Repository to play with Github actions
+Repository to play with Github actions.
